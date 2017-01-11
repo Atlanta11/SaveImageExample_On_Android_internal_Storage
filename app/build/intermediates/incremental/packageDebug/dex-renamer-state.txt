@@ -1,0 +1,7 @@
+#Wed Jan 11 16:44:08 CET 2017
+base.0=C\:\\Users\\ginov\\Downloads\\2\\SaveImageExample1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_b1728d34342807935688bc1bcda911b30bb94d7a
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\ginov\\Downloads\\2\\SaveImageExample1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_d7007d6d0e5d92913d3ecdb62e32feb829c79ccf\\classes.dex
+base.1=C\:\\Users\\ginov\\Downloads\\2\\SaveImageExample1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_d7007d6d0e5d92913d3ecdb62e32feb829c79ccf
+file.0=C\:\\Users\\ginov\\Downloads\\2\\SaveImageExample1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_b1728d34342807935688bc1bcda911b30bb94d7a\\classes.dex
